@@ -11,3 +11,11 @@ A forum like chat app
 ## Video of running App
 <a href ="https://youtu.be/cGBzl8SbEHA"><img src ="https://user-images.githubusercontent.com/71614009/115960112-189d3780-a52d-11eb-85ff-906663c4374c.png" width ="300" hieght ="275"> </a>
 
+## Tech used
+
+
+<a href ="https://flutter.dev/" > <img src="https://user-images.githubusercontent.com/71614009/115812209-a46c7200-a40e-11eb-848f-ac8b30bc41fb.png" width ="50" alt ="Flutter"> </a> <a href ="https://dart.dev/"><img src="https://user-images.githubusercontent.com/71614009/115811626-abdf4b80-a40d-11eb-861b-3e1fbb0dcb5d.png" width ="50" alt="Dart"></a> <a href ="https://firebase.google.com/"><img src="https://user-images.githubusercontent.com/71614009/115960312-4df65500-a52e-11eb-8d9e-71a9297ea51f.png" width ="100" alt="FireBase"></a>
+
+## Things I learned Making this 
+* FireBase
+ I used Firebase as the backend for this app 
