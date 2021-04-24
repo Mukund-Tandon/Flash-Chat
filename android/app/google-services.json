@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727224346116",
+    "project_id": "flash-chat-aa62e",
+    "storage_bucket": "flash-chat-aa62e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727224346116:android:aa3d6ec7a2c93d3c3e3751",
+        "android_client_info": {
+          "package_name": "com.mukund_tandon.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727224346116-aqhjrmc5d8tbkmf15ganp1r485p6tf7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEauich_yfGgTADYiVwRwVPGI-c6vfYdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727224346116-aqhjrmc5d8tbkmf15ganp1r485p6tf7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
