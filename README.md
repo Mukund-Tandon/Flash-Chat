@@ -18,4 +18,4 @@ A forum like chat app
 
 ## Things I learned Making this 
 * #### FireBase-
- I used Firebase as the backend for this app 
+ I used Firebase as the backend for this app to let user register themselves and chat
