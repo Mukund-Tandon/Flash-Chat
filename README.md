@@ -1,5 +1,5 @@
 # chat_app
-A forum like chat app
+
 ## Things it can do
 * Register users with email and password
 * Let users login with their registered email and password
